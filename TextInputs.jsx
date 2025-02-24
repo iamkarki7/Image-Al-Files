@@ -5,7 +5,6 @@ const Container = styled.div`
   flex: 1;
   display: flex;
   display: flex;
-  display: flex;
   flex-direction: column;
   gap: 4px;
 `;
